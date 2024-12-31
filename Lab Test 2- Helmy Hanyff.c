@@ -21,7 +21,7 @@ int main() {
     printf("Reading position 0: %d\n", numbers[0]);   // First number
     printf("Reading position 4: %d\n", numbers[4]);   // Last number
     printf("Reading position 1: %d\n", numbers[1]);   // Second number
-    printf("Reading position 2: %d\n", numbers[2]);   // Third number
+    printf("Reading position 2: %d\n", numbers[2232]);   // Third number
     
     return 0;
 }
